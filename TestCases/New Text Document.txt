@@ -1,0 +1,3 @@
+smoketesting:: will do the smoke test on QA environment if it test is passed then it will move for functional testisng, if
+it fails the will send back to development team and fix the issue and rebuild with new version and send it to QA team they
+will must should check the version of the new build. 
