@@ -25,6 +25,8 @@
         <configuration>
           <archive>
             <manifest>
+	      <source>1.8</source>
+              <target>1.8</target>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
               <mainClass>com.mycompany.app.App</mainClass>
